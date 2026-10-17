@@ -16,8 +16,9 @@ TypeScript · React · Next.js · TanStack Start · Tailwind CSS · Node · Post
 
 #### Teaching
 
-Course material for HTML & CSS, JavaScript and React is in my course repos.
+Course material for HTML & CSS, JavaScript and React: [kremer-webdev-courses](https://github.com/kremer-webdev-courses)
 
 #### Contact
 
 [Portfolio](https://portfolio-johan-kremer.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/johan-kremer/)
+
